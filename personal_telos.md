@@ -10,17 +10,23 @@ Other sections that aren't those core sections are additional context to support
 
 ## HISTORY
 
-- I grew up in the Austin, TX area
-- I went to Mission High School, where I was bullied a decent amount
-- High school is where I met my 2 life-long friends, Doug and Mitchell who are still my friends today
+- I grew up in the Eugene, OR area
+- I went to Winston Churchill High School, where I was bullied a decent amount
+- Elementary and Middlle School is where I met my 2 life-long friends, Oliver and Toby, who are still my friends today
 
 ## PROBLEMS
 
-- P1: Not enough people understand how to build secure open-source software
+- P1: Not enough people understand how to safely scan QR codes
+- P2: Not enough college students understand or care about their finances and starting early
+- P3: Many first-time startup founders reach a bottleneck of knowledge management when they grow a team
+- P4: Small companies find it hard to create and maintain Written Information Security Plans (WISP) for cybersecurity compliance
 
 ## MISSION
 
-- M1: Create and promote a standard for building secure open-source software
+- M1: Create and promote a mobile app for safely scanning QR codes
+- M2: Start a newsletter that shares tips and tricks to college students for becoming financially smarter
+- M3: Make a SaaS product tailored to first-time founders that makes it easy and scalable to show their ways to newcomers
+- M4: Create a system at my part-time job as a compliance consultant that takes risk input from threats and compliance sources
 
 ## NARRATIVES
 
