@@ -1,24 +1,24 @@
 ## Document Purpose
 
-This document captures the SPQA policy and State for Alma Security, a security startup out of Redwood City, Ca.
+This document captures the Telos method for articulating the purpose of Safe-Scan, a security startup Eugene, OR.
 
-This is part of the SPQA context that will be used to answer questions and create artifacts for the company, e.g., company strategy, security strategy, quarterly security reports (QSRs), project plans, recommendations on which projects to undertake, which investments to take and avoid, and other such decisions.
+This is part of the context that will be used to answer questions and create artifacts for the company, e.g., company strategy, security strategy, quarterly security reports (QSRs), project plans, recommendations on which projects to undertake, which investments to take and avoid, and other such decisions.
 
-A major aspect of the SPQA system is the definition of the company's mission, goals, KPIs, and challenges. These shape everything within the company and thus should be used to shape the recommendations made when asked.
+A major aspect of this system is the definition of the company's mission, goals, KPIs, and challenges. These shape everything within the company and thus should be used to shape the recommendations made when asked.
 
 In addition to the clearly stated goals and other defining characteristics listed above, there will also be a streaming list of updates coming into this system using the Activity document.
 
-Those will be changes, updates, or modifications to the direction of the company. For example, if Goal number 4 is to build a new datacenter in Boise, Idaho, but we see an update in the Activity section that says we've lost the ability to build in Boise, we should consider goal #4 out of the picture for prioritization and other decision purposes. In other words, the streaming activity log into this document should be considered updates to the core content.
+Those will be changes, updates, or modifications to the direction of the company. For example, if Goal number 4 is to build a new backend system in the app, but we see an update in the Activity section that says we've decided to commit our resources to training a new AI, we should consider goal #4 out of the picture for prioritization and other decision purposes. In other words, the streaming activity log into this document should be considered updates to the core content.
 
 ## Company History
 
-Alma Security was started by Chris Meyers, who was previously at Sigma Systems as CTO and HPE as a senior security engineer.
+Safe-Scan was started by Justice Gaines, who is currently studying cybersecurity at the University of Oregon.
 
-He started the company becuase, "I saw a gap in the authentication market, where companies were only looking at one or two aspects of one's identity to do authentication. They we're looking at the whole picture and turning that into a continuous authentication story."
+He started the company becuase, "I saw the dangers of Quishing attacks, where hackers would place malicious QR Codes in places that look legitimate, only to steal information that would help them attack their victims. They are both casting wide nets to see how many victims they can catch (which is effective) and targeting specific individuals in a more spear-quish scenario."
 
 ## Company Mission
 
-The mission of Alma Security is to ensure businesses can continuously authenticate their users using their whole selves.
+The mission of Safe-Scan is to ensure individual peace-of-mind when can scanning QR Codes
 
 ## Company Goals (G1 means goal 1, G2 is goal 2, etc. Treat each item (goal/kpi/etc) as half as important as the one before it.)
 
@@ -26,28 +26,21 @@ NOTE: Some goals are things like project rollouts which serve the higher goals. 
 
 ## Company Goals
 
-- G1: Achieve 20% market share by January 2025
-- G2: Hit 10000 active customers by January 2025
-- G3: Hit a customer trust score of 90+% by January 2025
-- G4: Get churn below 5% by August 2024
-- G5: Launch in Europe by August 2024
-- G6: Launch in India by November 2024
-- G7: Launch Mood-monitor integration by February 2024
-- G8: Launch partnership with Apple Passkeys by June 2024
+- G1: Build an MVP with core features
+- G2: Market the MVP via social media channels to find actionable, accessible, and auditable metrics about our market segments
+- G3: Build our funnel
+- G4: Launch the app and website to the market segments
 
 ## Company KPIs
 
-- K1: Current marketshare percentage
-- K2: Number of active customers
-- K3: Current churn percentage
-- K4: Launched_in_Europe (yes/no)
-- K4: Launched_in_India (yes/no)
+- K1: Number of people reached with MVP
+- K2: Market segments
 
 -----------------------------------------------------------------------------------------------------------------------
 
 ## Security Team Mission 
 
-- SM1: Protect Alma Security's customers and intellectual property from security and privacy incidents.
+- SM1: Protect Safe-Scan's customers and intellectual property from Quishing incidents.
 
 ## Security Team Goals
 
